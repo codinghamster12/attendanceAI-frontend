@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/attendanceai-frontend/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/attendanceai-frontend/static/js/main.f7f57227.chunk.js",
-    "main.js.map": "/attendanceai-frontend/static/js/main.f7f57227.chunk.js.map",
-    "runtime-main.js": "/attendanceai-frontend/static/js/runtime-main.2d5c0960.js",
-    "runtime-main.js.map": "/attendanceai-frontend/static/js/runtime-main.2d5c0960.js.map",
-    "static/js/2.8c99485c.chunk.js": "/attendanceai-frontend/static/js/2.8c99485c.chunk.js",
-    "static/js/2.8c99485c.chunk.js.map": "/attendanceai-frontend/static/js/2.8c99485c.chunk.js.map",
-    "static/js/3.281792f3.chunk.js": "/attendanceai-frontend/static/js/3.281792f3.chunk.js",
-    "static/js/3.281792f3.chunk.js.map": "/attendanceai-frontend/static/js/3.281792f3.chunk.js.map",
+    "main.css": "/attendanceai-frontend/static/css/main.9f3c0fcc.chunk.css",
+    "main.js": "/attendanceai-frontend/static/js/main.9361de82.chunk.js",
+    "main.js.map": "/attendanceai-frontend/static/js/main.9361de82.chunk.js.map",
+    "runtime-main.js": "/attendanceai-frontend/static/js/runtime-main.56e01c3c.js",
+    "runtime-main.js.map": "/attendanceai-frontend/static/js/runtime-main.56e01c3c.js.map",
+    "static/js/2.6c029f63.chunk.js": "/attendanceai-frontend/static/js/2.6c029f63.chunk.js",
+    "static/js/2.6c029f63.chunk.js.map": "/attendanceai-frontend/static/js/2.6c029f63.chunk.js.map",
+    "static/js/3.4e5e1c9d.chunk.js": "/attendanceai-frontend/static/js/3.4e5e1c9d.chunk.js",
+    "static/js/3.4e5e1c9d.chunk.js.map": "/attendanceai-frontend/static/js/3.4e5e1c9d.chunk.js.map",
     "index.html": "/attendanceai-frontend/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/attendanceai-frontend/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.8c99485c.chunk.js.LICENSE.txt": "/attendanceai-frontend/static/js/2.8c99485c.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/attendanceai-frontend/static/media/logo.6ce24c58.svg"
+    "static/css/main.9f3c0fcc.chunk.css.map": "/attendanceai-frontend/static/css/main.9f3c0fcc.chunk.css.map",
+    "static/js/2.6c029f63.chunk.js.LICENSE.txt": "/attendanceai-frontend/static/js/2.6c029f63.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2d5c0960.js",
-    "static/js/2.8c99485c.chunk.js",
-    "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.f7f57227.chunk.js"
+    "static/js/runtime-main.56e01c3c.js",
+    "static/js/2.6c029f63.chunk.js",
+    "static/css/main.9f3c0fcc.chunk.css",
+    "static/js/main.9361de82.chunk.js"
   ]
 }
